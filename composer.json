@@ -1,5 +1,8 @@
 {
-    "name": "symfony/class-loader",
+    "name": "symfony@iglue/class-loader",
+    "replace": {
+        "symfony/class-loader": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony ClassLoader Component",
     "keywords": [],
